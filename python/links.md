@@ -1,5 +1,7 @@
-https://pythondigest.ru - сайт с кучей статей по питону
+[сайт с кучей статей по питону](https://pythondigest.ru)
 
-https://habrahabr.ru/post/193888/ - платформер на pygame
+[платформер на pygame](https://habrahabr.ru/post/193888/)
 
-https://habrahabr.ru/post/313160/ - приложение на Kivy
+[приложение на Kivy](https://habrahabr.ru/post/313160/)
+
+[9 Youtube-каналов для изучения Python](https://proglib.io/p/youtube-python-channels/)
