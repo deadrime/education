@@ -1,0 +1,44 @@
+!) Драва для принтера, сканера, бамбука, мышки, микра
+0) Opera, Firefox, Chrome
+	-Ublock
+	-Download Chrome Extension
+	-BetterTTV
+	-Page Ruler
+	-PerfectPixel
+	-Firebug
+	-Untamed Now Playing
+1) JetBrains PhpStorm, php 5.4, php 7.1 , интерпритатор
+2) JetBrains PyCharm, python 2.7, python 3.6
+3) IntelliJ IDEA 2016, Java
+4) Visual Studio
+5) Office + Access 
+6) filezilla
+7) GitHub
+8) Cygwin64 Terminal
+9) AIDA64
+10) CPUID CPU-Z
+11) Uninstall Tool
+12) Utorrent
+13) Discord
+14) Steam
+15) VMware Workstation 12 Player
+16) OBS Studio
+17) join.me
+18) Sublime Text 3 / 2
+19) 7-Zip
+20) DAEMON Tools 
+21) Kaspersky Internet Security 2011
+22) Manga Studio 5.0 (64 Bit) , Autodesk SketchBook Pro 7 , MediBang Paint Pro
+23) DFX Audio Enhancer
+24) Acrobat Reader
+25) djvu reader
+26) Android Studio ?
+27) puush
+28) Media Player Classic
+29) Photoshop
+30) Illustrator
+31) QTranslate
+32) Brackets
+
+PATH:
+%SystemRoot%\System32;%SystemRoot%;%SystemRoot%\System32\Wbem;C:\Users\Admin\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\Admin\AppData\Local\Programs\Python\Python36\;C:\php\;C:\Users\Admin\AppData\Roaming\Composer\vendor\bin;C:\php\bin
