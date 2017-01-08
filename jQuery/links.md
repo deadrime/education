@@ -1,0 +1,1 @@
+[про this](https://vk.com/wall-37413577_41187)
