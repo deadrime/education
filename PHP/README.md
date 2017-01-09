@@ -7,3 +7,5 @@
 [php.net](http://php.net) В этом кратком и простом учебнике показаны основы PHP.
 
 [Что должен знать Junior PHP разработчик](http://anton.shevchuk.name/php/required-skills-for-junior-php-developer/)
+
+[PhpStorm](https://www.youtube.com/watch?v=-K55ms3mTHg)
