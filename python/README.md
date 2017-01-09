@@ -1,3 +1,5 @@
+[Курс с практикой](https://www.coursera.org/learn/interactive-python-1) - на английском, с субтитрами
+
 [сайт с кучей статей по питону](https://pythondigest.ru)
 
 [платформер на pygame](https://habrahabr.ru/post/193888/)
@@ -8,3 +10,6 @@
 
 [Курс по Python](https://vk.com/videos-101965347?section=album_892)
 
+[Отличная книга](http://www.labirint.ru/books/311244/) - когда-нибудь надо бы купить
+
+[Много практики](https://learnpythonthehardway.org/book/)
