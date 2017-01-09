@@ -1,3 +1,7 @@
+[Современный учебник JavaScript](https://learn.javascript.ru)
+
+[Курс от Sorax](https://www.youtube.com/watch?v=H6G63NKRSi8)
+
 [Курс от "специалист"ч.1](https://vk.com/videos-101965347?section=album_348) 
 
 [Курс от "специалист" ч.2](https://vk.com/wall-101965347_39451)
