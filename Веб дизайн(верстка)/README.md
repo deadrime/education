@@ -8,6 +8,8 @@
 
 [Немного интересных уроков по css3](https://vk.com/wall-101965347_42206)
 
+[Бесплатные ssl сертификаты](https://letsencrypt.org)
+
 ##Верстка, практика
 [Верстка landing page](https://www.youtube.com/watch?v=DLAMqI1a83U)
 
