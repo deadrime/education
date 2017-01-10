@@ -19,7 +19,7 @@
 10) CPUID CPU-Z
 11) Uninstall Tool
 12) Utorrent
-13) Discord
+13) Discord / BetterDiscord
 14) Steam
 15) VMware Workstation 12 Player
 16) OBS Studio
@@ -39,6 +39,7 @@
 30) Illustrator
 31) QTranslate
 32) Brackets
+33) Open Server
 
 PATH:
 %SystemRoot%\System32;%SystemRoot%;%SystemRoot%\System32\Wbem;C:\Users\Admin\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\Admin\AppData\Local\Programs\Python\Python36\;C:\php\;C:\Users\Admin\AppData\Roaming\Composer\vendor\bin;C:\php\bin
