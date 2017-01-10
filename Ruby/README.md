@@ -1,1 +1,1 @@
-[Хорошая книга](http://www.labirint.ru/books/562611/)
++ [Хорошая книга](http://www.labirint.ru/books/562611/)
