@@ -1,18 +1,15 @@
 #О репозитории
 Тут собрана небольшая подборка материалов и всяких полезностей по различным темам, которые я хотел бы изучить и которые мне интересны. Я довольно долго сохранял все это в закладках,заметках и у себя в личке, так что решил, что было бы неплохо отсортировать и объединить все это в одном месте.
 
-#Полезные ссылки
+#Курсы
+[htmlacademy](https://htmlacademy.ru/program) - есть пара бесплатных курсов, для начинающих
+
+[Гарвардский курс CS50](http://javarush.ru/cs50.html) - на русском
+
+#Практика
 [Сайт с кучей задачек](https://acmp.ru) - огромный архив задач по программированию любой сложности
 
-[Редактор Brackets](https://www.youtube.com/watch?v=O3_gus8nb0Q&index=1&list=PLPpaecEYRC8bGw3oj3ecnPjSe09r4bPyo) - что-то на уровне сублайма или атома надо потестить
-
-[Курс по разработке интерфейсов](https://vk.com/wall-54530371_96286)
-
-[Интервью с создателем ленты, медузы, новой газеты и других клёвых сайтов](http://www.the-village.ru/village/business/got-success/250267-gladkih?utm_source=vk.com&utm_medium=social&utm_campaign=pogovorili-s-osnovatelem-studii-charmer)
-
-[Куча полезностей для бутстрапа и не только](https://toster.ru/q/175801)
-
-#Обучение во время игры
+##Обучение во время игры
 [CodinGame](https://www.codingame.com/) - отличный сайт с кучей языков программирования
 
 [Screeps](https://screeps.com/) - Учитесь программировать на JavaScript играя в игру. 
@@ -28,3 +25,13 @@
 [Codewars](http://www.codewars.com/) - Совершенствуйте свои навыки путем обучения с другими на реальные вызовы кода. Поддержка JavaScript, Python, C #, Java, Python и др. 
 
 [Ruby Quiz](http://rubyquiz.com/) - Еженедельная викторина для Ruby-программистов. На данный момент архив содержит 156 тестов. 
+
+#Полезные ссылки
+[Редактор Brackets](https://www.youtube.com/watch?v=O3_gus8nb0Q&index=1&list=PLPpaecEYRC8bGw3oj3ecnPjSe09r4bPyo) - что-то на уровне сублайма или атома надо потестить
+
+[Курс по разработке интерфейсов](https://vk.com/wall-54530371_96286)
+
+[Интервью с создателем ленты, медузы, новой газеты и других клёвых сайтов](http://www.the-village.ru/village/business/got-success/250267-gladkih)
+
+[Куча полезностей для бутстрапа и не только](https://toster.ru/q/175801)
+
