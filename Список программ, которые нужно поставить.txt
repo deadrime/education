@@ -22,7 +22,15 @@
 13) Discord / BetterDiscord
 14) Steam
 15) VMware Workstation 12 Player
-16) OBS Studio
+16) OBS Studio + плагины
+	Чат - http://streamlabs.com/widgets/chat-box/v1/75485AC13C7DB1F2379A , 340x570
+	Часы - file:///E:/STREAMS/clock2/CSS3-digital-clock/index.html
+	Вебка - http://192.168.1.6:8080/video , 800x480
+	Донейшн голд - http://www.donationalerts.ru/widget/donation-goal?token=ur8sf1rtfkyJyNfxDSX7 800x600
+	Фоллоу - https://www.nightdev.com/hosted/follower-alert/?channel=deadrime&chroma=false&alert=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fxrfvgoi3ym2h3mr%2Ffollow-alert-1472258503510.png%3Fdl%3D1&transition=slide-up&sound=https%3A%2F%2Fwww.dropbox.com%2Fs%2Faajwoy3jncv8pcn%2Ffollow-alert-1472258506514.ogg%3Fdl%3D1&align=right 580x110
+	Донат - http://www.donationalerts.ru/widget/alerts?token=ur8sf1rtfkyJyNfxDSX7 800x600
+	Фолловеры - http://streamlabs.com/widgets/event-list/v1/75485AC13C7DB1F2379A 600x300
+	Худы- D:/Документы/2016/аутизм/
 17) join.me
 18) Sublime Text 3 / 2
 19) 7-Zip
@@ -43,3 +51,7 @@
 
 PATH:
 %SystemRoot%\System32;%SystemRoot%;%SystemRoot%\System32\Wbem;C:\Users\Admin\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\Admin\AppData\Local\Programs\Python\Python36\;C:\php\;C:\Users\Admin\AppData\Roaming\Composer\vendor\bin;C:\php\bin
+
+После этого поставить Acronis True Image и сделать образ системы.
+
+Потом поставить steam и battle net
