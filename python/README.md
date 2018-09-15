@@ -1,4 +1,4 @@
-#Теория
+# Теория
 + [Курс с практикой](https://www.coursera.org/learn/interactive-python-1) - на английском, с субтитрами
 
 + [сайт с кучей статей по питону](https://pythondigest.ru)
@@ -9,7 +9,7 @@
 
 + [Отличная книга](http://www.labirint.ru/books/311244/) - когда-нибудь надо бы купить
 
-#Практика
+# Практика
 + [Много практики](https://learnpythonthehardway.org/book/)
 
 + [платформер на pygame](https://habrahabr.ru/post/193888/)
