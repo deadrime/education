@@ -4,4 +4,3 @@
 + [30 полезных советов](https://www.javacodegeeks.com/2015/06/java-programming-tips-best-practices-beginners.html)
 + [Курс "Углебленное программирование на Java"](https://vk.com/videos-54530371?section=album_56085498)
 + [Вопросы на собеседовании](https://habrahabr.ru/post/162017/)
-+ 
